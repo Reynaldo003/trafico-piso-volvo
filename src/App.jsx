@@ -1,4 +1,4 @@
-// src/pages/TraficoPiso/TraficoPiso.jsx
+// src/App.jsx
 import { useMemo, useState } from "react";
 import { motion } from "framer-motion";
 import {
@@ -31,6 +31,7 @@ const ASESORES = [
   "Ricardo Platas",
   "Verónica Del Rayo Galindo León",
   "Julio Camacho Barragán",
+  "Fernanda Romero Aguilar",
 ];
 
 const VEHICULOS = [
