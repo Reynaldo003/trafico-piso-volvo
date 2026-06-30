@@ -475,11 +475,19 @@ export default function TraficoPiso() {
             
             <div className="relative flex flex-col md:flex-row md:items-center md:justify-between gap-3">
               <div>
-                <h1 className="text-2xl font-bold tracking-[0.3em] text-white md:text-3xl">
+               <h1
+                  className="text-5xl font-extralight tracking-[0.6em] text-white uppercase"
+                  style={{ fontFamily: "Georgia, serif" }}
+                >
                   VOLVO
                 </h1>
-                <p className="text-xs font-medium uppercase tracking-[0.15em] text-amber-400/80">
-                  Registro de tráfico · piso
+                <p
+                  className="text-xs font-light uppercase tracking-[0.25em] text-white"
+                  style={{
+                    fontFamily: "'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  }}
+                >
+                  TRAFICO DE PISO
                 </p>
               </div>
               <div className="flex items-center gap-3 rounded-2xl bg-white/5 px-5 py-2.5 backdrop-blur">
