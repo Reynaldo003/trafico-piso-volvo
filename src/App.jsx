@@ -32,6 +32,7 @@ const ASESORES = [
   "Verónica Del Rayo Galindo León",
   "Julio Camacho Barragán",
   "Fernanda Romero Aguilar",
+  "Zaira Vanessa Hernández Gómez",
 ];
 
 const VEHICULOS = [
