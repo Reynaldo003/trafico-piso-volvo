@@ -35,6 +35,7 @@ const ASESORES = [
   "Fernanda Romero Aguilar",
   "Zaira Vanessa Hernández Gómez",
   "Carlos Bautista Camacho",
+  "Iván López Montero",
 ];
 const VEHICULOS = [
   "EX30", "EX40", "EC40", "EX90", "XC60", "XC90",
